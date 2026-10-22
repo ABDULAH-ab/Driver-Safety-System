@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+driver_safety.log
+
+# Generated / runtime folders
+original_images/
+processed_images/
+
+# System / OS
+.DS_Store
+Thumbs.db
