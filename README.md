@@ -7,6 +7,8 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Mesh-008080?logo=google&logoColor=white)](https://developers.google.com/mediapipe)
 [![Flask](https://img.shields.io/badge/Flask-Web%20Streaming-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
+**Date:** 10 May 2025
+
 An intelligent, real-time computer vision system engineered to prevent road accidents by proactively detecting driver fatigue, distraction, seatbelt violations, and illegal mobile phone usage. 
 
 All processing runs **100% live in-memory** with hardware GPU acceleration and renders interactive visual HUD alerts directly onto the live browser feed with zero disk I/O overhead.
